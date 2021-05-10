@@ -1,0 +1,12 @@
+require:
+  - rubocop-performance
+  - rubocop-rails
+
+AllCops:
+  DesabledByDefault: true
+
+Lint:
+  Enabled: true
+
+Security:
+  Enabled: true
